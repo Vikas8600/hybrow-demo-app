@@ -1,0 +1,34 @@
+{
+ "charts": [],
+ "content": "[]",
+ "creation": "2023-01-17 18:30:36.654915",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "hr",
+ "idx": 0,
+ "label": "HR Custom",
+ "links": [],
+ "modified": "2023-01-17 18:30:43.878236",
+ "modified_by": "Administrator",
+ "module": "hybrow-demo",
+ "name": "HR Custom",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "sequence_id": 9.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Human Resource",
+   "link_to": "Human Resource",
+   "type": "Dashboard"
+  }
+ ],
+ "title": "HR Custom"
+}
