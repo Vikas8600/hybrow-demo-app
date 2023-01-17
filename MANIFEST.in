@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hybrow_demo *.css
+recursive-include hybrow_demo *.csv
+recursive-include hybrow_demo *.html
+recursive-include hybrow_demo *.ico
+recursive-include hybrow_demo *.js
+recursive-include hybrow_demo *.json
+recursive-include hybrow_demo *.md
+recursive-include hybrow_demo *.png
+recursive-include hybrow_demo *.py
+recursive-include hybrow_demo *.svg
+recursive-include hybrow_demo *.txt
+recursive-exclude hybrow_demo *.pyc
